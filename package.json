@@ -45,7 +45,7 @@
     "eslint": "3.18.0",
     "eslint-plugin-react": "6.10.3",
     "extract-text-webpack-plugin": "2.1.0",
-    "fine-uploader": "5.14.2",
+    "fine-uploader": "git+ssh://git@github.com/csdisco/fine-uploader#5.14.2",
     "jasmine": "2.5.3",
     "jasmine-core": "2.5.2",
     "karma": "1.5.0",
