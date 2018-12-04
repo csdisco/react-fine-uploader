@@ -25,7 +25,7 @@
     "prop-types": "15.x"
   },
   "dependencies": {
-    "fine-uploader-wrappers": "^1.0.1",
+    "fine-uploader-wrappers": "git+ssh://git@github.com/csdisco/fine-uploader-wrappers#disco-1.1.0",
     "object-assign": "4.1.1",
     "react-transition-group": "2.x"
   },
